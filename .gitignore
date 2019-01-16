@@ -53,6 +53,7 @@ coverage.xml
 docs/_build/
 
 contexts/OSMesa.Darwin.x86_64.zip
+contexts/OSMesa.Linux.x86_64.zip
 contexts/OSMesa/
 contexts/_constants.py
 contexts/_functions.pyx
